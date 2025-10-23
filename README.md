@@ -33,7 +33,6 @@ The app turns raw transaction data into **easy-to-read dashboards** and **action
 * Built a **full-stack financial insights app** to visualize and forecast spending.
 * Developed the **frontend in Flutter**, providing a smooth cross-platform experience for Android and iOS.
 * Used **Python (Flask)** for the backend, handling data cleaning, analysis, and API integration.
-* Stored user accounts and transaction data securely in a **cloud-based database**.
 * Processed data using **Pandas** and generated one-year forecasts using **Meta Prophet**.
 * Exported processed data as **JSON** for real-time integration with the Flutter dashboard.
 * Designed and prototyped the UI in **Figma**, then refined it through iterative testing in Flutter.
